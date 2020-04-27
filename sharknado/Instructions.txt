@@ -1,0 +1,16 @@
+INSTRUCIONS MODELISATEUR DE SHARKNADO
+JULES ARBELOT et JULIEN BREMONT
+
+Etape 1 :
+Dessinez un profil de requin
+Etape 2 : 
+Dessinez les nageoires (click gauche pour tourner autour du requin et molette pour zoomer ou dezoomer , S et W pour faire avancer ou reculer le plan de dessin)
+Etape 3 :
+Quand cela est terminé, appuyez sur T pour dessiner une tornade. 
+Etape 4 :
+Appuyez sur Q pour place les requins sur la tornade
+Etape 5 :
+Appuyez sur ESPACE pour lancer l’animation
+
+À tout moment vous pouvez appuyer sur R pour effacer des objets.
+
